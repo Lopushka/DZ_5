@@ -21,7 +21,7 @@ if (elementsCont > 0)
         Console.WriteLine(myArray[i]);
     }
 
-    Console.WriteLine($"\n Max: {myArray.Max() - myArray.Min()}");
+    Console.WriteLine($"\nРазница между максимальным и минимальным элементов массива.: {myArray.Max() - myArray.Min()}");
 
 }
 

@@ -3,7 +3,6 @@ int quantity = Convert.ToInt32(Console.ReadLine());
 Random random = new Random();
 
 
-
 if (quantity > 0)
 {
     int[] newArray = new int[quantity];
